@@ -1,1 +1,1 @@
-# amortised-inference
+# amortized-inference
